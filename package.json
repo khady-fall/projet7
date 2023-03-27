@@ -1,0 +1,24 @@
+{
+  "name": "projet7",
+  "version": "1.0.0",
+  "description": "creation d'api rest",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/khady-fall/projet7.git"
+  },
+  "author": "khadija",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/khady-fall/projet7/issues"
+  },
+  "homepage": "https://github.com/khady-fall/projet7#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.22",
+    "sqlite3": "^5.1.6"
+  }
+}
